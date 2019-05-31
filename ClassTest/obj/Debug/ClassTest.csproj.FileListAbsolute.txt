@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\ClassTest.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
